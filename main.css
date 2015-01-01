@@ -1,0 +1,79 @@
+body {
+	margin: 0px;
+}
+
+.all-container {
+	width: 100%;
+	font-family: 'Open Sans', sans-serif;
+}
+
+a {
+	text-decoration: none;
+	color: #000000;
+}
+
+.site-menu {
+	width: 250px;
+	background-color: #ffffff;
+	float: left;
+	height: 100%;
+	position: absolute;
+}
+
+.main-content {
+	margin-left: 250px;
+	/*background-color: #d0d0d0;*/ /* PLACEHOLDER */
+	float: left;
+	padding-top: 105px;
+	padding-left: 50px;
+	/*width: 1000px;*/ /* PLACEHOLDER */
+	/*height: 700px;*/ /* PLACEHOLDER */
+}
+
+.logo-type {
+	text-align: center;
+	font-family: Oswald, sans-serif;
+	font-size: 2em;
+	font-weight: bold;
+}
+
+.site-menu ul {
+	list-style-type: none;
+}
+
+.site-menu li {
+	padding: 10px;
+}
+
+.site-menu a:hover {
+	background-color: #000000;
+	color: #ffffff;
+	padding: 5px;
+	margin-left: -5px;
+}
+
+.copyright {
+	width: 250px;
+	text-align: center;
+	font-size: 0.8em;
+	line-height: 50%;
+	bottom: 0;
+	left: 0;
+	position: absolute;
+}
+ .plain-text {
+ 	font-family: 'Open Sans Condensed', 'Open Sans', sans-serif;
+ 	font-size: 1.2em;
+ 	max-width: 500px;
+ 	float: left;
+ }
+
+.about-pic {
+	width: 200px;
+	float: left;
+}
+
+ .about-pic img {
+ 	width: 200px;
+ 	border-radius: 10px;
+ }
