@@ -17,14 +17,14 @@ a {
 	background-color: #ffffff;
 	float: left;
 	height: 100%;
-	position: absolute;
+	position: fixed;
 }
 
 .main-content {
 	margin-left: 250px;
 	/*background-color: #d0d0d0;*/ /* PLACEHOLDER */
 	float: left;
-	padding-top: 105px;
+	padding-top: 100px;
 	padding-left: 50px;
 	/*width: 1000px;*/ /* PLACEHOLDER */
 	/*height: 700px;*/ /* PLACEHOLDER */
